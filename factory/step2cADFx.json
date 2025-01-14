@@ -1,0 +1,9 @@
+{
+	"name": "step2cADFx",
+	"location": "australiaeast",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "182a5e2c-f31b-4f46-88be-7251ed1a3f99",
+		"tenantId": "ca08a6c6-73e9-4544-a9ab-ee1cd8d4ced1"
+	}
+}
